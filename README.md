@@ -14,7 +14,7 @@ transferred to OpenGL and their vertices are not transformed by the vertex shade
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Graphics Library:** OpenGL 3.3
 
-**Server:** Node, Express
+**Other Library:** GLM, FreeGlut, GLEW, rapidjson-master
 
